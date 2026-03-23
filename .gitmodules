@@ -1,0 +1,3 @@
+[submodule "rust-superdev-prep"]
+	path = rust-superdev-prep
+	url = https://github.com/mishalturkane/rust-superdev-prep
